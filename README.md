@@ -1,4 +1,4 @@
 # Student-demo
 This is my first projects
 <br>
-Author-Gajjar Dhriti
+Author-Gajjar Dhriti (IT student)
